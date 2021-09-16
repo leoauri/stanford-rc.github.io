@@ -1,6 +1,6 @@
 # Stanford Research Computing Center Documentation Portal
 
-This is a [mkdocs-jekyll](https://github.com/vsoch/mkdocs-jekll) template
+This is a [mkdocs-jekyll](https://github.com/vsoch/mkdocs-jekyll) template
 that provides a user portal for Stanford Research Computing Documentation
 bases.
 
