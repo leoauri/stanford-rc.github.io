@@ -14,45 +14,45 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Stanford Research Computing
-email: research-computing-support@stanford.edu
-author: Stanford Research Computing Center
+title: HPI | SCORE | FSOC Lab | DE Lab
+email: score-lab@hpi.de
+author: HPI SCORE Lab
 description: > # this means to ignore newlines until "baseurl:"
-  The Stanford Research Computing Center offers resources for compute, storage,
-  and office hours for user support.
+  Hasso Plattner Institut Digital Engineering Universität Potsdam SCORE Storage
+  FSOC Lab DE Lab - Scientific computing resources at the HPI.
 
 # DO NOT CHANGE THE LINE OF THIS FILE without editing .circleci/circle_urls.sh
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # This is mostly for testing
-url: "https://stanford-rc.github.io" # the base hostname & protocol for your site
+url: "http://dl385-02.delab.i.hpi.de" # the base hostname & protocol for your site
 
 # Social (First three Required)
-repo: "https://github.com/stanford-rc/stanford-rc.github.io"
-github_user: "stanford-rc"
+repo: "https://github.com/leoauri/stanford-rc.github.io"
+github_user: "leoauri"
 github_repo: "stanford-rc.github.io"
 # Based off of https://www.github.com/vsoch/mkdocs-jekyll
 
 # Optional
-twitter: StanfordCompute
-#linkedin: vsochat
-dockerhub: srcc
-google-analytics: UA-143467500-1
+# twitter: StanfordCompute
+# #linkedin: vsochat
+# dockerhub: srcc
+# google-analytics: UA-143467500-1
 
 # Image and (square) dimension for logo (don't start with /)
 # If commented, will use material hat theme
 # logo: "assets/img/logo/SRCC-square-red.png"
 logo_width: 34
 logo_pixels: 34
-color: "#8c1515" # primary color for header, buttons
+color: "#8FA5D7" # primary color for header, buttons
 
 # Build settings
 markdown: kramdown
 
 # If you add tags to pages, you can link them to some external search
 # If you want to disable this, comment the URL.
-tag_search_endpoint: https://ask.cyberinfrastructure.org/search?q=
-tag_color: danger # danger, success, warning, primary, info, secondary
+# tag_search_endpoint: https://ask.cyberinfrastructure.org/search?q=
+# tag_color: danger # danger, success, warning, primary, info, secondary
 
 accentColor: red # purple, green, etc.
 themeColor: red # purple, green, blue, orange, purple, grey
