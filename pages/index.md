@@ -14,7 +14,7 @@ These are documentation pages to assist you with using our resources.
 
 ### Compute resources
  - [Status]({{ site.baseurl }}{% link pages/status.md %})
- - Resource list with specs
+ - [Resource list with specs](/docs/resources)
 
 ### Reservation
  - Howto reserve time slots
