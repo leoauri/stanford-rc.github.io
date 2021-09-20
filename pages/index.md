@@ -9,7 +9,7 @@ permalink: /
 These are documentation pages to assist you with using our resources. 
 
 ### Getting started
- - Login to summon
+ - Login to [summon](/docs/summon)
  - Read the documentation
 
 ### Compute resources
